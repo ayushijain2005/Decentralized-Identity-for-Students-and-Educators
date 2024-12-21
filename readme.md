@@ -1,3 +1,4 @@
+
 # Decentralized Identity for Students and Educators
 
 ## Project Title
@@ -11,6 +12,8 @@ By using this platform, students and educators can maintain verifiable education
 ## Contract Address
 
 0x45c1208e39052C13Acf291D4A93209782c54B8a2
+![image](https://github.com/user-attachments/assets/1747eebd-4863-41fb-9386-21884cd66073)
+
 
 ## Project Vision
 The vision of the project is to revolutionize the educational credential verification process by making it decentralized, transparent, and secure. By using blockchain technology, students and educators will have full ownership and control of their educational identity. This system will help eliminate identity fraud and the need for intermediaries when validating educational qualifications.
